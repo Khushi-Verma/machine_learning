@@ -9,3 +9,8 @@ NumPy is a library for the Python programming language, adding support for large
   1. Pandas is a powerful python data analysis toolkit.
   2. A fast and efficient DataFram object for data manipulation.
   3. Reading and Writing data strucutres and different formats like: csv,tsv,txt,XML,JSON,ZIP etc.
+  
+ # Matplotlib Library-
+  1. used for design 2d and 3d grapgh
+  2.also used for animation
+  3. we can construct high quality graph
