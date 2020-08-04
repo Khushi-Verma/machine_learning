@@ -12,5 +12,5 @@ NumPy is a library for the Python programming language, adding support for large
   
  # Matplotlib Library-
   1. used for design 2d and 3d grapgh.
-  2.also used for animation.
+  2. also used for animation.
   3. we can construct high quality graph.
